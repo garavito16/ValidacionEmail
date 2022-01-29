@@ -1,0 +1,18 @@
+.message {
+    margin-top: 2.0em;
+    padding: 2.0em;
+    text-align: center;
+    border-radius: 1em;
+}
+
+.message_error {
+    background-color: red;
+}
+
+.message_success {
+    background-color: greenyellow;
+}
+
+.form, .info {
+    margin-top: 2.0em;
+}
